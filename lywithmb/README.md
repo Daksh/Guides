@@ -36,7 +36,7 @@ Download the `.exe` file and run it to launch the installation process.
 
 ###Installation for Mac OS
 1. Open the `.tar.bz2` file once it gets downloaded.
- <img src="https://wiki.sugarlabs.org/images/4/4c/LilyPond_Mac_1.png"></img>
+ <img src="\images\ly_mac_1.png"></img>
 2. Clicking it will, open the `Archive Utility` and extract it's contents.
  <img src="https://wiki.sugarlabs.org/images/c/c3/LilyPond_Mac_2.png"></img>
 3. After they have been extracted, you will see a `LilyPond application` file in the directory that pops up.
