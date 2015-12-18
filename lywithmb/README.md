@@ -157,7 +157,9 @@ Optionally, you can install `frescobaldi` a Graphical User Interface [(GUI)](htt
 2. Click to open the downloaded `.dmg` file.
  <img src="\images\frescobaldi_mac_1.png"></img>
 3. This will open up a pop up in which you can see the `Applications` shortcut and the Frescobaldi logo, drag the logo onto the Applications shortcut.
+
  <img src="\images\frescobaldi_mac_2.png"></img>
+ 
 4. Doing that will take you to the `Applications` folder and you can drop it there.
  <img src="\images\frescobaldi_mac_3.png"></img>
 
