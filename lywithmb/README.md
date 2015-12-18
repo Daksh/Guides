@@ -49,13 +49,14 @@ Download the `.exe` file and run it to launch the installation process.
  <img src="\images\ly_mac_5.png"></img>
 
 ##Generating LilyPond files from Music Blocks
-<img src="\images\save_as_ly_bt.svg"></img>
+<img src='https://rawgit.com/Daksh/guides/master/lywithmb//images/save_as_ly_bt.svg'</img>
+
 *save as lilypond block*
 
 As you play music in Music Blocks, the notes you play are stored in a cache. The `save as lilypond` block is used to transcribe the notes in the cache into a `.ly` file.
 
 **Note**: Use the <img
-src="\images\eraser_bt.svg" height="36"</img> (Erase button)  to clear the cache before you run your project to ensure you only get the notes from that project.
+src="https://rawgit.com/Daksh/guides/master/lywithmb//images/eraser_bt.svg" height="36"</img> (Erase button)  to clear the cache before you run your project to ensure you only get the notes from that project.
 
 ###Microphone Analogy
 You can imagine this feature as a microphone. It starts recording as soon as you start the activity. So each time that you play a sound, it gets recorded in memory. When you run the `save as lilypond` button, a copy of all what it has recorded up until in the specified file.
@@ -210,7 +211,7 @@ More customization details are found in the .ly file. Further references include
 * [Lilypond output in a web browser](https://www.tunefl.com/)
 
 ##Example: Making a `.ly` file from Music Blocks and Output
-<img src='\images\example.svg'</img>
+<img src='https://rawgit.com/Daksh/guides/master/lywithmb//images/example.svg'</img>
 
 The `save as lilypond` block will transcribe your composition. The
 output of the program above is saved to `~/Downloads/hotdog.ly.`
