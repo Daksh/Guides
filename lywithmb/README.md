@@ -89,7 +89,7 @@ Mi Fa
 ```
 
 **Hint:** Everytime the save button gets pressed, the `.ly` file gets downloaded
-<img src="\images\ly_from_mb_download"></img>
+<img src="\images\ly_from_mb_download.png"></img>
 
 
 ##Using LilyPond
@@ -104,9 +104,9 @@ Mi Fa
 ###For Windows
 1. Copy the generated `filename.ly` file to desktop.
 2. Drag and drop this file on the LilyPond shortcut.
-![Drag](\images\ly_windows_1.png)
+<img src="\images\ly_windows_1.png"></img>
 3. The `.pdf` and logs are created and can be found on the desktop.
-![PDF and logs](\images\ly_windows_2.png)
+<img src="\images\ly_windows_2.png"></img>
 
 ###For Mac OS X
 #####Compile (with LilyPad)
@@ -155,11 +155,11 @@ Optionally, you can install `frescobaldi` a Graphical User Interface [(GUI)](htt
 1. Download the [DMG disk images](https://github.com/wbsoft/frescobaldi/releases).
  (64 bit and 32 bit versions are provided (the "Frescobaldi-2.x.x-x86_64.dmg" and "Frescobaldi-2.x.x-i386.dmg" files, respectively)
 2. Click to open the downloaded `.dmg` file.
- <img src="https://wiki.sugarlabs.org/images/6/6e/Frescobaldi_mac_1.png"></img>
+ <img src="\images\frescobaldi_mac_1.png"></img>
 3. This will open up a pop up in which you can see the `Applications` shortcut and the Frescobaldi logo, drag the logo onto the Applications shortcut.
- <img src="https://wiki.sugarlabs.org/images/0/00/Frescobaldi_mac_2.png"></img>
+ <img src="\images\frescobaldi_mac_2.png"></img>
 4. Doing that will take you to the `Applications` folder and you can drop it there.
- <img src="https://wiki.sugarlabs.org/images/c/c8/Frescobaldi_mac_3.png"></img>
+ <img src="\images\frescobaldi_mac_3.png"></img>
 
 ####Alternative install via Homebrew or MacPorts
 1. If you have not already installed [Homebrew](http://brew.sh/) or [MacPorts](https://www.macports.org/), choose one of them and install.
