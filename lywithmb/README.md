@@ -38,24 +38,24 @@ Download the `.exe` file and run it to launch the installation process.
 1. Open the `.tar.bz2` file once it gets downloaded.
  <img src="\images\ly_mac_1.png"></img>
 2. Clicking it will, open the `Archive Utility` and extract it's contents.
- <img src="https://wiki.sugarlabs.org/images/c/c3/LilyPond_Mac_2.png"></img>
+ <img src="\images\ly_mac_2.png"></img>
 3. After they have been extracted, you will see a `LilyPond application` file in the directory that pops up.
 4. Drag and drop this file to the `Applications` on the left pane.
- <img src="https://wiki.sugarlabs.org/images/6/61/LilyPond_Mac_3.png"><img>
+ <img src="\images\ly_mac_3.png"></img>
 5. This will now enable you to see the "LilyPond" in your applications, i.e. It will get installed and you can drag and drop it from there to your dock, in order to have a shortcut for `LilyPond` in the dock.
 6. You can double-click it to run the program.
- <img src="https://wiki.sugarlabs.org/images/f/f7/Lilypond_mac_install_4.png"></img>
+ <img src="\images\ly_mac_4.png"></img>
 7. Alternatively, run it from a [terminal](http://guides.macrumors.com/Terminal) with the command `open -a LilyPond`.
- <img src="https://wiki.sugarlabs.org/images/c/c9/Lilypond_mac_install.png"></img>
+ <img src="\images\ly_mac_5.png"></img>
 
 ##Generating LilyPond files from Music Blocks
-<img src='https://wiki.sugarlabs.org/images/0/0d/Save_as_lilypond.svg'></img>
+<img src="\images\save_as_ly_bt.svg"></img>
 *save as lilypond block*
 
 As you play music in Music Blocks, the notes you play are stored in a cache. The `save as lilypond` block is used to transcribe the notes in the cache into a `.ly` file.
 
 **Note**: Use the <img
-src='https://rawgithub.com/walterbender/musicblocks/master/header-icons/erase-button.svg' height="36"</img> (Erase button)  to clear the cache before you run your project to ensure you only get the notes from that project.
+src="\images\eraser_bt.svg" height="36"</img> (Erase button)  to clear the cache before you run your project to ensure you only get the notes from that project.
 
 ###Microphone Analogy
 You can imagine this feature as a microphone. It starts recording as soon as you start the activity. So each time that you play a sound, it gets recorded in memory. When you run the `save as lilypond` button, a copy of all what it has recorded up until in the specified file.
@@ -88,7 +88,7 @@ Mi Fa
 ```
 
 **Hint:** Everytime the save button gets pressed, the `.ly` file gets downloaded
-![MusicBlocks](https://wiki.sugarlabs.org/images/f/f0/Save_to_ly_MusicBlocks.png)
+<img src="\images\ly_from_mb_download"></img>
 
 
 ##Using LilyPond
@@ -103,9 +103,9 @@ Mi Fa
 ###For Windows
 1. Copy the generated `filename.ly` file to desktop.
 2. Drag and drop this file on the LilyPond shortcut.
-![Drag](https://wiki.sugarlabs.org/images/9/9c/LilyPondWindows3.png)
+![Drag](\images\ly_windows_1.png)
 3. The `.pdf` and logs are created and can be found on the desktop.
-![PDF and logs](https://wiki.sugarlabs.org/images/4/49/LilyPondWindows2.png)
+![PDF and logs](\images\ly_windows_2.png)
 
 ###For Mac OS X
 #####Compile (with LilyPad)
@@ -114,19 +114,19 @@ Mi Fa
 2. Close the example file which it opens.
 3. Use `File > Open` to open your `.ly` file:
 
-   <img src="https://wiki.sugarlabs.org/images/7/73/Lilypond_mac_8.png"></img>
+   <img src="\images\ly_use_mac_1.png"></img>
 4. From the menu along the top left of your screen, select `Compile > Typeset`
 
-   <img src="https://wiki.sugarlabs.org/images/0/06/Lilypond_mac_4.png"></img>
+   <img src="\images\ly_use_mac_2.png"></img>
 
 5. A new window will open showing a progress log of the compilation of the file you have just saved.
 
-   <img src="https://wiki.sugarlabs.org/images/8/83/Lilypond_mac_5.png"></img>
+   <img src="\images\ly_use_mac_3.png"></img>
 
 #####View output
 Once the compilation has finished, a `.pdf` file will be created with the same name as the original file. This file will be automatically opened in the default PDF viewer and displayed on your screen.
 
-   <img src="https://wiki.sugarlabs.org/images/a/ab/Lilypond_mac_6.png"></img>
+   <img src="\images\ly_use_mac_4.png"></img>
 
 If the `.pdf` file is not displayed check the window with the progress log for any errors.
 
@@ -210,7 +210,7 @@ More customization details are found in the .ly file. Further references include
 * [Lilypond output in a web browser](https://www.tunefl.com/)
 
 ##Example: Making a `.ly` file from Music Blocks and Output
-<img src='https://rawgithub.com/walterbender/musicblocks/master/guide/lilypond1.svg'</img>
+<img src='\images\example.svg'</img>
 
 The `save as lilypond` block will transcribe your composition. The
 output of the program above is saved to `~/Downloads/hotdog.ly.`
@@ -235,7 +235,7 @@ e'4 e'4 d'8 d'8 d'8 d'8 d'4 d'4 c'8 c'8 c'8 c'8 c'4 c'4
 }
 ```
 
-<img src='https://rawgithub.com/walterbender/musicblocks/master/guide/hotdog.png'</img>
+<img src='\images\sheetmusic.png'</img>
 
 ##Example: Blank `.ly` file
 ```
