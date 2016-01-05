@@ -1,15 +1,24 @@
 #Report
 
-##Status
-I will like to start by saying that I know that this does not work properly. The last attempt, sort of fixes the problem in a bad way. Down in this report, I have described what I have tried.
+##Current Status
+The feature works as required.
 
-##Redundant code
-It was successfully removed. And the code transferred to a function so that it can be called from both the places.
-[Corresponding GitHub Commit](https://github.com/Daksh/musicblocks/commit/b3dec5865dadd136e119985f6bd4673365366c16)
-The code had a slight modification for both the calls, so I introduced a new argument which takes care of that change
+* The save button saves without playing sounds
+* In a fast time (without any delays)
+* New Icon Created and Added to the header
+* Prompt for the file name entry
+* Reuses the code
+* JS Beautify applied
 
-##File Name
-A prompt was added to get the file name from the user which is to be saved.
+##Problems
+
+###Redundant code [FIXED]
+Redundant code was successfully removed which was earlier copied for the button but now, it has been transferred to a function by the name of `savelyfile` in the `logo.js` so that it can be called from both the places (block and the button)
+
+The code had a slight modification for both the calls, so a new argument has been introduced by the name of `check` which takes care of that change. And the main argument, `logo` is used to pass all the data required.
+
+###File Name
+Earlier there was no option to choose the file name but now a prompt has been added to get the file name from the user which is to be saved.
 The following code does the required:
 ```javascript
 var lyfilename = prompt("Please enter the file name", "lilypondexport.ly");
@@ -20,12 +29,12 @@ else
   doSaveLilypond(logo, "lilypondexport.ly");
 }
 ```
-`null` represents the action of closing, in which case it does not save
-` ` if the user enters no name, the default name `lilypondexport.ly` gets used
-Otherwise the specified name is used
+`null` represents the action of closing the pop up, in which case it does not save the file.
 
-##The other feature
-As it was suggested by walter, I have been trying to lean JavaScript and implement the feature that you asked me to, ever since that was told to me. I found out a good number of things like:  
+and ` ` if the user enters no name, the default name `lilypondexport.ly` is used to save the file.
+
+##Feature
+It was recommended that the code should be changed so that, rather than recording all the notes to the `.ly` file, which the `save as lilypond` block did, we should have the button to save only the current opened file and not requiring to play the audio before save.
 
 1. The data is stored in a 'logo' structure which has "lilypondStaging" and "lilypondOutput" 
 <img src="\images\1.png"></img>
@@ -76,3 +85,5 @@ But in the lilypond save, we do not need that. We rather need the notes that hav
 The `runFromBlockNow` is in itself a huge function. But if we just look at the notes playing here, it gets processed in one of the cases of the switch case inside that function, but even there I could not find a reference which was adding the notes to the lilypondStaging.
 
 Further to conclude this, I would like to say that I am not familiar with JavaScript, so even though I found the whole workflow that I did, I am not able to make the changes to the code so easily. And the ones that I did make were each after a few hours of Googling on how to do that, for example the callback system and the timeout wait.
+
+##Things learnt
