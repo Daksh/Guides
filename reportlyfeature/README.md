@@ -87,3 +87,10 @@ The `runFromBlockNow` is in itself a huge function. But if we just look at the n
 Further to conclude this, I would like to say that I am not familiar with JavaScript, so even though I found the whole workflow that I did, I am not able to make the changes to the code so easily. And the ones that I did make were each after a few hours of Googling on how to do that, for example the callback system and the timeout wait.
 
 ##Things learnt
+* JavaScript basics to a nice level
+* Some knowledge about asynchronous and synchronous tasks and how to run them in JS
+* Storage of large data as sub divided elements
+* Calling functions from different files
+* MusicBlocks code, and workflow to a nice extent relating
+* Got more experience in designing icons
+* **Not to give up**
