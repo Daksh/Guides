@@ -10,6 +10,23 @@ The feature works as required.
 * Reuses the code
 * JS Beautify applied
 
+##Improvements to be made
+Currently the save uses the following code:
+```javascript
+logo.runLogoCommands(undefined, undefined, true);
+setTimeout(function() {
+    logo.savelyfile(logo, true);
+    var lyfilename = prompt("Please enter the file name", "lilypondexport.ly");
+    if (lyfilename != null) {
+        if (lyfilename != "")
+            doSaveLilypond(logo, lyfilename);
+        else
+            doSaveLilypond(logo, "lilypondexport.ly");
+    }
+}, (4 * 1000));
+```
+so this is essentially waiting for a fixed amount of time, `4 seconds` in the above code block for the `runLogoCommands`, but the problem is that when the number of blocks increase drastically, the time required might exceed the 4 seconds, so this would give incomplete output.
+
 ##Problems
 
 ###Redundant code [FIXED]
@@ -17,7 +34,7 @@ Redundant code was successfully removed which was earlier copied for the button 
 
 The code had a slight modification for both the calls, so a new argument has been introduced by the name of `check` which takes care of that change. And the main argument, `logo` is used to pass all the data required.
 
-###File Name
+###File Name [FIXED]
 Earlier there was no option to choose the file name but now a prompt has been added to get the file name from the user which is to be saved.
 The following code does the required:
 ```javascript
