@@ -37,7 +37,7 @@ and ` ` if the user enters no name, the default name `lilypondexport.ly` is used
 It was recommended that the code should be changed so that, rather than recording all the notes to the `.ly` file, which the `save as lilypond` block did, we should have the button to save only the current opened file and not requiring to play the audio before save.
 
 1. The data is stored in a 'logo' structure which has "lilypondStaging" and "lilypondOutput" 
-<img src="\images\1.png"></img>
+ <img src="\images\1.png"></img>
 that is what can be seen in the logs, to get that I have used the `console.log(logo)` statement in the [savely function](https://github.com/Daksh/musicblocks/commit/0d81927d9ebb4cf60bfacfa0345332ff0cd806a5#diff-c9771817b0b1e7ef2e9185f91a62b4cfR2475)
 2. The `lilypondStaging` is populated, i.e. it gets the data when the blocks are run, and the output gets added each time to the `lilypondOutput` when the button/block for saving is used. 
 3. To implement the desired feature, I checked how the run button get's it's data so that I can somehow access the blocks in the start which I can add to the staging area and then create the output, but was not able to successfully do that. 
