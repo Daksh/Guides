@@ -51,7 +51,7 @@ Download the `.exe` file and run it to launch the installation process.
 ##Generating LilyPond files from Music Blocks
 
 ###Save as Lilypond Button
-<img src='https://rawgit.com/Daksh/guides/master/lywithmb//images/save-to-lilypond-button'></img>
+<img src='https://rawgit.com/Daksh/guides/master/lywithmb//images/save-to-lilypond-button.svg'></img>
 
 *save as lilypond button*
 
