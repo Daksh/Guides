@@ -49,6 +49,15 @@ Download the `.exe` file and run it to launch the installation process.
  <img src="\images\ly_mac_5.png"></img>
 
 ##Generating LilyPond files from Music Blocks
+
+###Save as Lilypond Button
+<img src='https://rawgit.com/Daksh/guides/master/lywithmb//images/save-to-lilypond-button'></img>
+
+*save as lilypond button*
+
+This button does not play the sounds nor does it require that the sounds be played. It just converts all the blocks that are there in the `start` block into a `.ly` flie.
+
+###Save as Lilypond Block
 <img src='https://rawgit.com/Daksh/guides/master/lywithmb//images/save_as_ly_bt.svg'</img>
 
 *save as lilypond block*
@@ -58,7 +67,7 @@ As you play music in Music Blocks, the notes you play are stored in a cache. The
 **Note**: Use the <img
 src="https://rawgit.com/Daksh/guides/master/lywithmb//images/eraser_bt.svg" height="36"</img> (Erase button)  to clear the cache before you run your project to ensure you only get the notes from that project.
 
-###Microphone Analogy
+####Microphone Analogy
 You can imagine this feature as a microphone. It starts recording as soon as you start the activity. So each time that you play a sound, it gets recorded in memory. When you run the `save as lilypond` button, a copy of all what it has recorded up until in the specified file.
 
 If you want to clear the memory, press the Erase button on the main menu.
