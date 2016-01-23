@@ -49,4 +49,4 @@ does not work, and gives the following error:
 
 <img src="\images\editerror.png"></img>
 
-Though I am not sure what it is for, but I think that the <kbd>Edit Source</kbd>kbd> already does the work. So maybe the <kbd>Edit</kbd> button should be removed and the <kbd>Edit Source</kbd> be renamed.
+Though I am not sure what it is for, but I think that the <kbd>Edit Source</kbd> already does the work. So maybe the <kbd>Edit</kbd> button should be removed and the <kbd>Edit Source</kbd> be renamed.
