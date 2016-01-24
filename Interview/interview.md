@@ -97,3 +97,11 @@ Daksh, I mentioned this before in the interview, but "free software" does not eq
 I know, deep in my heart, that what I do with both music /and/ with the development and advocacy for free software is valuable and I will help others understand this as well. On the other hand, sometimes work that is very profitable does little to truly benefit society for the long term. This is a true shame.
 
 Music, education, and free software are all worthy of sharing in the wealth of the world. Let's invest in things that are really beneficial to ourselves, our environment, and to society as a whole.
+
+##Credits
+
+Interviewer: Daksh Shah
+Interviewee: [Devin Ulibarri](devinulibarri.com)
+
+##License
+This work is licensed under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
