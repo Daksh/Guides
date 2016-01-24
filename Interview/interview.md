@@ -74,6 +74,8 @@ I assume that you are reffering to features. What new features should one expect
 
 As for future plans for the software in the classroom, we are currently designing an entire curriculum based on how one can teach fundamental musical concepts using Music blocks software as an education tool. I would also like to see a curriculum that helps students understand Music Blocks /as a programming language/--something that helps them understand that they are creating code to communicate with a computer.
 
+<img src='https://rawgit.com/Daksh/guides/master/Interview//daksh.jpg' align="right"></img>
+
 ##What do you think is the future of open source, or as you said free softwares?
 
 The term, "Free Software" (http://www.gnu.org/philosophy/free-sw.html) was coined by Richard Stallman in the mid-1980's. Richard Stallman is the founder of the GNU project and the Free Software Foundation (founded 1985).
