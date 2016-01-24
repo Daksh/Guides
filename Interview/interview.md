@@ -1,31 +1,47 @@
 DakshShah: What Open Source Softwares do you use and for what purpose?
 
-pikurasa: I prefer to call it "free software". The reason I prefer to call it free software is because free software puts the emphasis on its implications for social justice. The freedoms afforded the students and educators put the power in the hands of those who need it, whereas non-free (proprietary) software puts unjust power into the hands of its developers. Unjust control over students and teachers is the last thing we need in education today.
+Devin: I prefer to call it "free software". The reason I prefer to call it free software is because free software puts the emphasis on its implications for social justice. The freedoms afforded the students and educators put the power in the hands of those who need it, whereas non-free (proprietary) software puts unjust power into the hands of its developers. Unjust control over students and teachers is the last thing we need in education today.
 
 DakshShah: Well, so according to you there is no difference between open source software and free software then?
-pikurasa: No, I do think there is a difference between "open source software" and "free software".
-pikurasa: The difference between OSS and FS is
+
+Deivn: No, I do think there is a difference between "open source software" and "free software".
+
+The difference between OSS and FS is
+
 1. that the term OSS does not put any emphasis on the social justice implications whereas FS does
+
 2. some so-called "OSS" licenses have loopholes that developers can leverage to deny freedoms to users (BSD in MacOS, for example [please fact check this]) whereas the FS community and their licenses works toward putting as much power as possible into the hands of its users. All the more important when the users are students/teachers.
-pikurasa: Final Words on OSS and FS: The term "OSS" also has had the effect of confusing the public in a few ways. 1. Many people think that this type of license is only for not-for-profit (non-commercial) works. That is not true. With completely free software, an end user should be able to sell the software, if they like (as long as they do not add any further restrictions). ...
-pikurasa: 2. Many people have the misconception that the software's source code must be made available to audit in a public place. Even for something like the AGPL (intended for server-side software that helps provides a service), the wording says that the source code should be made available to /those who use the software/. ...
-pikurasa: So, theoretically a school can have their own version of AGPL software (OwnCloud, GNU Social, web-based Sugar software) on their own server and not be obliged to publish their software code (their unique modifications to their software code for their school) available to the public at large--they just need to make the source code available to the school population.
+
+Final Words on OSS and FS: The term "OSS" also has had the effect of confusing the public in a few ways. 
+
+1. Many people think that this type of license is only for not-for-profit (non-commercial) works. That is not true. With completely free software, an end user should be able to sell the software, if they like (as long as they do not add any further restrictions). ...
+
+2. Many people have the misconception that the software's source code must be made available to audit in a public place. Even for something like the AGPL (intended for server-side software that helps provides a service), the wording says that the source code should be made available to /those who use the software/. ...
+
+So, theoretically a school can have their own version of AGPL software (OwnCloud, GNU Social, web-based Sugar software) on their own server and not be obliged to publish their software code (their unique modifications to their software code for their school) available to the public at large--they just need to make the source code available to the school population.
 pikurasa: The term "Open Source" seems to fuel these two big misconceptions, whereas "Free Software" does not.
 
 
 <Coming back to the question: What Open Source Softwares do you use and for what purpose?>
-pikurasa: To be honest, I software does not play a very central role in any of my classes. I teach classical guitar and general music--both of which do not need any software at all to teach/learn.
-pikurasa: However...
-pikurasa: However, I have been asked by some people to incorporate software into my classroom. A colleague of mine encouraged me to use online music notation software in class.
+
+To be honest, I software does not play a very central role in any of my classes. I teach classical guitar and general music--both of which do not need any software at all to teach/learn.
+
+However...
+
+However, I have been asked by some people to incorporate software into my classroom. A colleague of mine encouraged me to use online music notation software in class.
 pikurasa: That would have made /that/ music notation software a central part of my class. I would have had to ask students to
+
 1. create an account
 2. run the software via their web browser and to
 3. use the services of the company to communicate with me and each other.
-pikurasa: That music software is proprietary. Therefore I rejected it on the following considerations.
+
+That music software is proprietary. Therefore I rejected it on the following considerations.
+
 1. Privacy. Students and Teachers (me) would have had to hand their personal information (name and emails at the very least) to a company otherwise unrelated to the class.
 2. Freedom. The software is proprietary, so the students would have no opportunity to study the source code (how it works) and no freedom to modify and redistribute it.
 3. It had a social media aspect that, in my opinion, was completely unnecessary. It would probably have just distracted my students. I could not justify requiring my students to engage in this bizarre social media environment that seemed to have very little to do with the goals of the classroom. If anything, I would like my students to spend less time on social media--not more!
-pikurasa: I do use OwnCloud as a peripheral to send/receive large files to/from my students and their families. This allows me to send/receive files without also having a third party company (like Google or Dropbox) track students' activities (with Google Drive or Dropbox software, for example). For the same reason, I use Media Goblin, but there are important features missing in the version I use, such as "unlisted" publishing), which is very important.
+
+I do use OwnCloud as a peripheral to send/receive large files to/from my students and their families. This allows me to send/receive files without also having a third party company (like Google or Dropbox) track students' activities (with Google Drive or Dropbox software, for example). For the same reason, I use Media Goblin, but there are important features missing in the version I use, such as "unlisted" publishing), which is very important.
 pikurasa: *I will admit, because of my limitations in technical understanding I cannot utilize the software fully.
 pikurasa: As for my own personal use of software that benefits my teaching and learning, but is neither used in the classroom nor to communicate with students I use all the common free software A/V tools such as Audacity for sound recording and Lilypond for music engraving. I also use LibreOffice to create documents for my classes. When I ask my students to record something for me or write a paper for homework, I recommend these options and send them the link to find it.
 
