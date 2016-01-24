@@ -1,5 +1,5 @@
-![alt text](/devin.jpg "Logo Title Text 1")
-<img src='https://rawgit.com/Daksh/guides/master/Interview//devin.jpg'></img>
+
+<img src='https://rawgit.com/Daksh/guides/master/Interview//devin.jpg' align="right"></img>
 
 DakshShah: What Open Source Softwares do you use and for what purpose?
 
