@@ -1,11 +1,13 @@
+#Interview
+
 
 <img src='https://rawgit.com/Daksh/guides/master/Interview//devin.jpg' align="right"></img>
 
-DakshShah: What Open Source Softwares do you use and for what purpose?
+##What Open Source Softwares do you use and for what purpose?
 
 Devin: I prefer to call it "free software". The reason I prefer to call it free software is because free software puts the emphasis on its implications for social justice. The freedoms afforded the students and educators put the power in the hands of those who need it, whereas non-free (proprietary) software puts unjust power into the hands of its developers. Unjust control over students and teachers is the last thing we need in education today.
 
-DakshShah: Well, so according to you there is no difference between open source software and free software then?
+##Well, so according to you there is no difference between open source software and free software then?
 
 Deivn: No, I do think there is a difference between "open source software" and "free software".
 
