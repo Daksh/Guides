@@ -5,11 +5,11 @@
 
 ##What Open Source Softwares do you use and for what purpose?
 
-Devin: I prefer to call it "free software". The reason I prefer to call it free software is because free software puts the emphasis on its implications for social justice. The freedoms afforded the students and educators put the power in the hands of those who need it, whereas non-free (proprietary) software puts unjust power into the hands of its developers. Unjust control over students and teachers is the last thing we need in education today.
+I prefer to call it "free software". The reason I prefer to call it free software is because free software puts the emphasis on its implications for social justice. The freedoms afforded the students and educators put the power in the hands of those who need it, whereas non-free (proprietary) software puts unjust power into the hands of its developers. Unjust control over students and teachers is the last thing we need in education today.
 
 ##Well, so according to you there is no difference between open source software and free software then?
 
-Deivn: No, I do think there is a difference between "open source software" and "free software".
+No, I do think there is a difference between "open source software" and "free software".
 
 The difference between OSS and FS is
 
@@ -24,7 +24,8 @@ Final Words on OSS and FS: The term "OSS" also has had the effect of confusing t
 2. Many people have the misconception that the software's source code must be made available to audit in a public place. Even for something like the AGPL (intended for server-side software that helps provides a service), the wording says that the source code should be made available to /those who use the software/. ...
 
 So, theoretically a school can have their own version of AGPL software (OwnCloud, GNU Social, web-based Sugar software) on their own server and not be obliged to publish their software code (their unique modifications to their software code for their school) available to the public at large--they just need to make the source code available to the school population.
-pikurasa: The term "Open Source" seems to fuel these two big misconceptions, whereas "Free Software" does not.
+
+The term "Open Source" seems to fuel these two big misconceptions, whereas "Free Software" does not.
 
 
 <Coming back to the question: What Open Source Softwares do you use and for what purpose?>
@@ -34,7 +35,8 @@ To be honest, I software does not play a very central role in any of my classes.
 However...
 
 However, I have been asked by some people to incorporate software into my classroom. A colleague of mine encouraged me to use online music notation software in class.
-pikurasa: That would have made /that/ music notation software a central part of my class. I would have had to ask students to
+
+That would have made /that/ music notation software a central part of my class. I would have had to ask students to
 
 1. create an account
 2. run the software via their web browser and to
@@ -47,36 +49,44 @@ That music software is proprietary. Therefore I rejected it on the following con
 3. It had a social media aspect that, in my opinion, was completely unnecessary. It would probably have just distracted my students. I could not justify requiring my students to engage in this bizarre social media environment that seemed to have very little to do with the goals of the classroom. If anything, I would like my students to spend less time on social media--not more!
 
 I do use OwnCloud as a peripheral to send/receive large files to/from my students and their families. This allows me to send/receive files without also having a third party company (like Google or Dropbox) track students' activities (with Google Drive or Dropbox software, for example). For the same reason, I use Media Goblin, but there are important features missing in the version I use, such as "unlisted" publishing), which is very important.
-pikurasa: *I will admit, because of my limitations in technical understanding I cannot utilize the software fully.
-pikurasa: As for my own personal use of software that benefits my teaching and learning, but is neither used in the classroom nor to communicate with students I use all the common free software A/V tools such as Audacity for sound recording and Lilypond for music engraving. I also use LibreOffice to create documents for my classes. When I ask my students to record something for me or write a paper for homework, I recommend these options and send them the link to find it.
 
-Daksh: How did you start working with Sugar Labs and Walter Bender?
-pikurasa: So, I started working with Walter Bender of SugarLabs. Why? Because from what I could tell there exists no quality, imaginative software that
+*I will admit, because of my limitations in technical understanding I cannot utilize the software fully.
+
+As for my own personal use of software that benefits my teaching and learning, but is neither used in the classroom nor to communicate with students I use all the common free software A/V tools such as Audacity for sound recording and Lilypond for music engraving. I also use LibreOffice to create documents for my classes. When I ask my students to record something for me or write a paper for homework, I recommend these options and send them the link to find it.
+
+##How did you start working with Sugar Labs and Walter Bender?
+
+So, I started working with Walter Bender of SugarLabs. Why? Because from what I could tell there exists no quality, imaginative software that
+
 1. helps students learn music,
 2. affords them the freedom to study, modify, and redistribute the source code, and
 3. respects their privacy.
-pikurasa: From our collaboration, we created Music Blocks software.
-pikurasa: Music Blocks software is on the track to being software that I can really use in the classroom to teach music fundamentals. Additionally, students are free to study how the software works--they can be "contributors", and not just "consumers". Lastly, no one is in a position to force students and teachers to compromise their policy in any way. ...
-pikurasa: To be clear, a developer could modify aspects of the source code to track people via the web, but since the software is AGPL any tracking anti-features could be easily removed from a version by a knowledgeable developer and redistributed as a privacy respecting version.
 
-Daksh: What are you future plans for/with Music Blocks? and what should the users expect with it, as in, what all new things (major) are in your view going to come in the software?
+From our collaboration, we created Music Blocks software.
+
+Music Blocks software is on the track to being software that I can really use in the classroom to teach music fundamentals. Additionally, students are free to study how the software works--they can be "contributors", and not just "consumers". Lastly, no one is in a position to force students and teachers to compromise their policy in any way. ...
+
+To be clear, a developer could modify aspects of the source code to track people via the web, but since the software is AGPL any tracking anti-features could be easily removed from a version by a knowledgeable developer and redistributed as a privacy respecting version.
+
+##What are you future plans for/with Music Blocks? and what should the users expect with it, as in, what all new things (major) are in your view going to come in the software?
 
 I assume that you are reffering to features. What new features should one expect? We plan to complete all the fundamental transformation tools such as "play notes backwards" and "rhythmic tie", for example. We plan to make some major improvements in the UI, which will probably mean that we have separate workstations for different workflow (e.g. working with blocks vs. working with Matrix). Lastly, we plan to have some useful widgets to help users new to music bridge the gap between the more abstract concepts and their sound (e.g. tempo, pitch, and rhythm widgets).
 
 As for future plans for the software in the classroom, we are currently designing an entire curriculum based on how one can teach fundamental musical concepts using Music blocks software as an education tool. I would also like to see a curriculum that helps students understand Music Blocks /as a programming language/--something that helps them understand that they are creating code to communicate with a computer.
 
-Daksh: What do you think is the future of open source, or as you said free softwares?
+##What do you think is the future of open source, or as you said free softwares?
 
 The term, "Free Software" (http://www.gnu.org/philosophy/free-sw.html) was coined by Richard Stallman in the mid-1980's. Richard Stallman is the founder of the GNU project and the Free Software Foundation (founded 1985).
 
 I think the future is good.
 
 The future is good for a couple of different reasons:
+
 1. Free Software is valuable -- Having full control over what your software does is valuable. Schools and Businesses, I believe, will come to understand this value and start putting more money into Free Software development than into proprietary software.
 2. Free Software is good for privacy -- As policy makers become more familiar with the privacy and security implications of using free software vs. non-free software, they will start to transition to using more free software solutions.
 3. Free Software is great for education -- People who learn technology using free software have the freedoms they need to really learn their technology. On the other hand, those who use proprietary software (even in the name of building technical skills) will find that there is a limit to how much they can learn, because much of how the software works is kept a secret to them.
 
-Daksh: Does it not hamper your salary, when you spend so much time in non profit free software work? Time which could have yielded you more income? If no, how? If yes, then why do you still do it?
+##Does it not hamper your salary, when you spend so much time in non profit free software work? Time which could have yielded you more income? If no, how? If yes, then why do you still do it?
 
 I am a music teacher. I don't make much money anyway. :p
 
