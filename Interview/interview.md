@@ -5,7 +5,7 @@
 
 ##What Open-Source Softwares do you use and for what purpose?
 
-I prefer to call it "Free Software". The reason I prefer to call it Free Doftware is because Free Software puts the emphasis on its implications for social justice. The freedoms afforded the students and educators put the power in the hands of those who need it, whereas non-free (proprietary) software puts unjust power into the hands of its developers. Unjust control over students and teachers is the last thing we need in education today.
+I prefer to call it "Free Software". The reason I prefer to call it Free Software is because Free Software puts the emphasis on its implications for social justice. The freedoms afforded the students and educators put the power in the hands of those who need it, whereas non-free (proprietary) software puts unjust power into the hands of its developers. Unjust control over students and teachers is the last thing we need in education today.
 
 ##Well, so according to you there is no difference between Open-Source Software and Free Software then?
 
@@ -68,7 +68,7 @@ To be clear, a developer could modify aspects of the source code to track people
 
 ##What are you future plans for/with Music Blocks? and what should the users expect with it, as in, what all new things (major) are in your view going to come in the software?
 
-I assume that you are reffering to features. What new features should one expect? We plan to complete all the fundamental transformation tools such as "play notes backwards" and "rhythmic tie", for example. We plan to make some major improvements in the UI, which will probably mean that we have separate workstations for different workflow (e.g. working with blocks vs. working with Matrix). Lastly, we plan to have some useful widgets to help users new to music bridge the gap between the more abstract concepts and their sound (e.g. tempo, pitch, and rhythm widgets).
+I assume that you are referring to features. What new features should one expect? We plan to complete all the fundamental transformation tools such as "play notes backwards" and "rhythmic tie", for example. We plan to make some major improvements in the UI, which will probably mean that we have separate workstations for different workflow (e.g. working with blocks vs. working with Matrix). Lastly, we plan to have some useful widgets to help users new to music bridge the gap between the more abstract concepts and their sound (e.g. tempo, pitch, and rhythm widgets).
 
 As for future plans for the software in the classroom, we are currently designing an entire curriculum based on how one can teach fundamental musical concepts using Music blocks software as an education tool. I would also like to see a curriculum that helps students understand Music Blocks /as a programming language/--something that helps them understand that they are creating code to communicate with a computer.
 
@@ -92,11 +92,11 @@ I am a music teacher. I don't make much money anyway. :p
 
 But seriously...
 
-Daksh, I mentioned this before in the interview, but "Free Software" does not equal "non profit". It is misconecption. Free Software /may/ be sold for a profit. Developers can make a business from making improvements to existing free software (because they have the freedom to do so) for a profit. Free software is, however, at a disadvantage in the current economy because those who create proprietary software have a market monopoly on their product--they can ask any price they want (and develop it to put the user in a position where they /need/ to pay more to continue to utilize the software). Free Software cannot be monopolized because everyone who has the software owns it and has control over its development. Please do not contribute to this common confusion by saying "non profit Free Software work"!
+Daksh, I mentioned this before in the interview, but "Free Software" does not equal "non profit". It is misconception. Free Software /may/ be sold for a profit. Developers can make a business from making improvements to existing free software (because they have the freedom to do so) for a profit. Free software is, however, at a disadvantage in the current economy because those who create proprietary software have a market monopoly on their product--they can ask any price they want (and develop it to put the user in a position where they /need/ to pay more to continue to utilize the software). Free Software cannot be monopolized because everyone who has the software owns it and has control over its development. Please do not contribute to this common confusion by saying "non profit Free Software work"!
 
 I know, deep in my heart, that what I do with both music /and/ with the development and advocacy for Free Software is valuable and I will help others understand this as well. On the other hand, sometimes work that is very profitable does little to truly benefit society for the long term. This is a true shame.
 
-Music, education, and fFee Software are all worthy of sharing in the wealth of the world. Let's invest in things that are really beneficial to ourselves, our environment, and to society as a whole.
+Music, education, and Free Software are all worthy of sharing in the wealth of the world. Let's invest in things that are really beneficial to ourselves, our environment, and to society as a whole.
 
 ##Note
 
