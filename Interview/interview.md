@@ -14,13 +14,11 @@ No, I do think there is a difference between "open source software" and "free so
 The difference between OSS and FS is
 
 1. that the term OSS does not put any emphasis on the social justice implications whereas FS does
-
 2. some so-called "OSS" licenses have loopholes that developers can leverage to deny freedoms to users (BSD in MacOS, for example [please fact check this]) whereas the FS community and their licenses works toward putting as much power as possible into the hands of its users. All the more important when the users are students/teachers.
 
 Final Words on OSS and FS: The term "OSS" also has had the effect of confusing the public in a few ways. 
 
 1. Many people think that this type of license is only for not-for-profit (non-commercial) works. That is not true. With completely free software, an end user should be able to sell the software, if they like (as long as they do not add any further restrictions). ...
-
 2. Many people have the misconception that the software's source code must be made available to audit in a public place. Even for something like the AGPL (intended for server-side software that helps provides a service), the wording says that the source code should be made available to /those who use the software/. ...
 
 So, theoretically a school can have their own version of AGPL software (OwnCloud, GNU Social, web-based Sugar software) on their own server and not be obliged to publish their software code (their unique modifications to their software code for their school) available to the public at large--they just need to make the source code available to the school population.
@@ -38,9 +36,9 @@ However, I have been asked by some people to incorporate software into my classr
 
 That would have made /that/ music notation software a central part of my class. I would have had to ask students to
 
-1. create an account
-2. run the software via their web browser and to
-3. use the services of the company to communicate with me and each other.
+1. Create an account
+2. Run the software via their web browser and to
+3. Use the services of the company to communicate with me and each other.
 
 That music software is proprietary. Therefore I rejected it on the following considerations.
 
@@ -102,8 +100,8 @@ Music, education, and free software are all worthy of sharing in the wealth of t
 
 ##Credits
 
-Interviewer: Daksh Shah
-Interviewee: [Devin Ulibarri](devinulibarri.com)
+* Interviewer: Daksh Shah
+* Interviewee: [Devin Ulibarri](devinulibarri.com)
 
 ##License
 This work is licensed under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
